@@ -1,1 +1,1 @@
-grep ^HFPLTPILOTINCHARGE: Mo/1c7267ab.igc | cut -c 20-
+grep ^HFPLTPILOTINCHARGE: $1 | cut -c 20-
